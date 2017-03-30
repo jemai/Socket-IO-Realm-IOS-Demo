@@ -1,0 +1,6 @@
+framework module Pods_SocketIoRealmSample {
+  umbrella header "Pods-SocketIoRealmSample-umbrella.h"
+
+  export *
+  module * { export * }
+}

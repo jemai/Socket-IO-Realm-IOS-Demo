@@ -1,0 +1,20 @@
+PODS:
+  - Realm (2.5.0):
+    - Realm/Headers (= 2.5.0)
+  - Realm/Headers (2.5.0)
+  - RealmSwift (2.5.0):
+    - Realm (= 2.5.0)
+  - Socket.IO-Client-Swift (8.3.2)
+
+DEPENDENCIES:
+  - RealmSwift
+  - Socket.IO-Client-Swift (~> 8.3.2)
+
+SPEC CHECKSUMS:
+  Realm: 62abce501668580092d2be9b6ba7324a3d5f906a
+  RealmSwift: 9f1a8f624f2f153410115c2cb7d486be9976565d
+  Socket.IO-Client-Swift: 68b60e12f76b18233cc6300394fb8b6588c80200
+
+PODFILE CHECKSUM: 046a11ca571622d2acad16d7f492556ef2957c30
+
+COCOAPODS: 1.2.1.beta.1
